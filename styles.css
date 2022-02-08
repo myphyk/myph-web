@@ -1,0 +1,27 @@
+body {
+    background-color:#282d36;
+    color:#FFFFFF;
+    text-align:center;
+    font-family: verdana, sans-serif;
+}
+
+table.center {
+    margin-left: auto;
+    margin-right: auto;
+}
+a.nav-link:link {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+a.nav-link:visited {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+a.nav-link:hover {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+a.nav-link:active {
+    color: #FFFFFF;
+    text-decoration: none;
+}
